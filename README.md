@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @alezac97
+- 🌱 I’m currently learning Python
+- 📫 How to reach me alezac97#0001 on discord
